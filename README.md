@@ -59,6 +59,6 @@ This is a Node.js + Express.js backend for a Vehicle Service Booking System.
 
 ## Run Locally:
 
--npm install
--npm run dev
+- npm install
+- npm run dev
 
